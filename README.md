@@ -65,7 +65,7 @@ https://picsum.photos/v2/list?limit=30
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/photo-gallery.git
+git clone https://github.com/Thatikondapooja/photo_gallery.git
 
 2. Navigate to the project folder
 
